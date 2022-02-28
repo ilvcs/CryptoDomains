@@ -1,4 +1,4 @@
-# Crypto Domains
+# Crypto Domains Smart contract
 
 Crypto Domains Smart Contract with .hello Extension.
 
